@@ -1,3 +1,6 @@
+//tuition calculator, Isaac Perez
+//Dr_T 11/20/19
+//inheritance
 #include "input_validation.h"
 #include "functions.h"
 #include "color.h"
